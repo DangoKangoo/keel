@@ -109,11 +109,23 @@ heart rate and calories.
 
 ## Screenshots
 
-> Screenshots are coming soon.
+Shown with sample data from a made-up athlete, never real health data.
 
-| Today | Plan | Progress |
-| :---: | :--: | :------: |
-| _coming soon_ | _coming soon_ | _coming soon_ |
+<table>
+  <tr>
+    <td align="center"><b>Today</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/today-dark.png"><img src="assets/screenshots/today-light.png" alt="Today: race countdown, recovery, a suggestion and today's session" width="240"></picture></td>
+    <td align="center"><b>Plan</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/plan-dark.png"><img src="assets/screenshots/plan-light.png" alt="Plan: phases and this week, planned vs done" width="240"></picture></td>
+    <td align="center"><b>Progress</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/progress-dark.png"><img src="assets/screenshots/progress-light.png" alt="Progress: weekly distance over 12 weeks" width="240"></picture></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Session detail</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/session-dark.png"><img src="assets/screenshots/session-light.png" alt="A lifting session in full, with sets and watch heart rate" width="240"></picture></td>
+    <td align="center"><b>Create your plan</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/create-dark.png"><img src="assets/screenshots/create-light.png" alt="Create your plan: the preview before you start" width="240"></picture></td>
+    <td align="center"><b>Setup</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/setup-dark.png"><img src="assets/screenshots/setup-light.png" alt="Setup: goal and fitness, with a suggested target time" width="240"></picture></td>
+  </tr>
+  <tr>
+    <td align="center"><b>You</b><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/screenshots/you-dark.png"><img src="assets/screenshots/you-light.png" alt="You: goal and data sources" width="240"></picture></td>
+  </tr>
+</table>
 
 ## Coming soon
 
