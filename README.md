@@ -47,6 +47,14 @@ heart rate and calories.
 - **Choose your ambition:** steady, balanced or ambitious, each with its own
   peak volume.
 
+### Create your plan in a few steps
+
+- **Guided setup:** your goal, your week and how hard to push, one step at a
+  time, with a full preview of every phase and week before you start.
+- **Change it any time:** move or skip a session within its week, change your
+  days or ambition, and Keel rebuilds from this week on. Past weeks stay as
+  they were.
+
 ### Strength that supports your running
 
 - **Choose your strength focus:** support running, keep strength or build
@@ -63,12 +71,34 @@ heart rate and calories.
 - A failed sync or missing data is shown clearly, never filled with made-up
   numbers.
 
+### Planned vs done
+
+- **Each week, side by side:** every planned session shows whether it was done,
+  short, missed or still to come, with what you actually ran or lifted.
+- **Fair about syncing:** a session is only marked missed once your data from
+  after that day has synced, never because a sync is late.
+- **Extras count:** sessions you did that weren't planned still count toward
+  your week.
+
+### A plan that adapts
+
+- **Missed a key run?** Keel suggests a safe day to move it to this week, or
+  tells you to let it go when there isn't one.
+- **Hard week?** It suggests holding your distance instead of stepping up,
+  then easing back onto the plan.
+- **Short sleep or a raised resting heart rate?** It suggests an easier
+  version of today's session.
+- **You decide:** every suggestion explains why, nothing changes until you
+  apply it, and you can undo it the same day.
+
 ### Your training at a glance
 
-- **Today:** race countdown, sleep and resting heart rate compared with your
-  7-day average, recent sessions and this week so far.
+- **Today:** race countdown, today's sessions, sleep and resting heart rate
+  compared with your 7-day average, recent sessions and this week so far.
 - **Progress:** weekly distance, longest run, lifting sessions and volume over
-  the last few months.
+  the last few months. Tap any week to see its sessions.
+- **Every session in full:** distance, pace, heart rate and calories for runs;
+  every exercise and set for lifts, alongside your watch's heart rate.
 - **Setup from your own data:** Keel reads your last eight weeks to suggest a
   starting point and a realistic target time.
 
@@ -87,10 +117,7 @@ heart rate and calories.
 
 ## Coming soon
 
-- **Create your plan:** a guided, step-by-step setup with a full preview
-  before you start.
-- **Planned vs done:** see each week's plan next to what you actually did.
-- **A plan that adapts:** adjustments for missed sessions and poor recovery.
+- **Run splits:** per-kilometre pace and heart rate for every run.
 - **Subscriptions:** Keel is in active development and will be offered as a
   subscription. Pricing and availability will be announced to the waitlist
   first.
