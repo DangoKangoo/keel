@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#join-the-waitlist">Join the waitlist</a> ·
+  <a href="https://dangokangoo.github.io/keel-site/">Join the waitlist</a> ·
   <a href="#features">Features</a> ·
   <a href="#screenshots">Screenshots</a>
 </p>
@@ -129,7 +129,6 @@ Shown with sample data from a made-up athlete, never real health data.
 
 ## Coming soon
 
-- **Run splits:** per-kilometre pace and heart rate for every run.
 - **Subscriptions:** Keel is in active development and will be offered as a
   subscription. Pricing and availability will be announced to the waitlist
   first.
@@ -138,7 +137,7 @@ Shown with sample data from a made-up athlete, never real health data.
 
 Want early access or updates when Keel launches?
 
-**[Join the waitlist (link coming soon)](#join-the-waitlist)**
+**[Join the waitlist](https://dangokangoo.github.io/keel-site/)**
 
 ---
 
